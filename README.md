@@ -54,7 +54,12 @@ The technologies used in the MagnetFlow system can be described as such:
         - Kubernetes -> https://kubernetes.io/
 
 ### Additional Information
-Details about each part of the application system can be found in their respective repositories listed below
+Details about each part of the application system can be found in their respective repositories listed below:
+    - Desktop -> https://github.com/vexxuh/MagnetFlow-Desktop
+    - Client-API -> https://github.com/vexxuh/MagnetFlow-ClientAPI
+    - Torrent-Server -> https://github.com/vexxuh/MagnetFlow-TorrentServer
+    - File-Manager -> https://github.com/vexxuh/MagnetFlow-FileManager
+    - Deployment -> https://github.com/vexxuh/MagnetFlow-Deployer
 
 Documentation for installation, setup, and configuration can be found in the wiki pages of this repo! Or you can use this link to navigate straight there -> https://github.com/vexxuh/MagnetFlow/wiki
 
